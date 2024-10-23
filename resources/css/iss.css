@@ -1,0 +1,20 @@
+/* Custom AdminLTE styling */
+
+
+
+.sidebar {
+    background-color: #3E8CD6;
+    color: white;
+}
+
+.brand-link{
+    color: white;
+}
+
+.sidebar .nav-item a.nav-link {
+    color: white !important;
+}
+
+.sidebar .nav-item a.nav-link:hover {
+    color: #ccc !important; /* Optional: Set hover color to a lighter white */
+}
